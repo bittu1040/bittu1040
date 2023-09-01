@@ -14,9 +14,9 @@
 - 🌱 I’m currently learning  Advance topics in javascript and Angular framework...
 - 💞️ I’m looking to collaborate related to Web devlopment project ...
 - 💞️ I tweet about javascript regularly.
-- 📫 reach me 
-           twitter https://twitter.com/bittukumar_97
-           linkedin https://www.linkedin.com/in/bittukumar-web/
+- 📫 reach me <br>
+           twitter https://twitter.com/bittukumar_97  <br>
+           linkedin https://www.linkedin.com/in/bittukumar-web/ <br>
            medium https://bittukumar-web.medium.com/
 <!---
 bittu1040/bittu1040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
