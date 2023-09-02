@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning  Advance topics in javascript and Angular framework...
 - 💞️ I’m looking to collaborate related to Web devlopment project ...
 - 💞️ I tweet about javascript regularly.
-- 📫 reach me <br>
+- 📫 reach me out <br>
            twitter https://twitter.com/bittukumar_97  <br>
            linkedin https://www.linkedin.com/in/bittukumar-web/ <br>
            medium https://bittukumar-web.medium.com/
