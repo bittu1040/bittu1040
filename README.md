@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img align="center" src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="35" height="35"/>, I'm Bittu</h1>
+<h1 align="center">Hi  <img align="center" src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="35" height="35"/>, I'm Bittu</h1>
 <h3 align="center">Front End Developer</h3>
 <div align=center style="display: flex; align-items: center; justify-content: end; gap: 10px">
 <a href="https://www.linkedin.com/in/bittukumar-web/" target="_blank"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" width="30" hspace="10" vspace="10"></a>
