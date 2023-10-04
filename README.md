@@ -20,6 +20,10 @@
            twitter https://twitter.com/bittukumar_97  <br>
            linkedin https://www.linkedin.com/in/bittukumar-web/ <br>
            medium https://bittukumar-web.medium.com/
+  
+  <h3>Check some of my Live project</h3>
+  <li>https://bittu1040.github.io/javascript-dom-project/index.html</li>
+
 <!---
 bittu1040/bittu1040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
