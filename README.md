@@ -22,7 +22,7 @@
            medium https://bittukumar-web.medium.com/
   
   <h3>Check some of my Live project</h3>
-  <li target="_blank">https://bittu1040.github.io/javascript-dom-project/index.html</li>
+  <a href="https://bittu1040.github.io/javascript-dom-project/index.html" target="_blank">https://bittu1040.github.io/javascript-dom-project/index.html</a>
 
 <!---
 bittu1040/bittu1040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
